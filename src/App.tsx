@@ -34,6 +34,7 @@ function App() {
 				</a>
 			</div>
 			<h1>WunderGraph + Vite + React</h1>
+			<h1>Test</h1>
 			<div className="card">
 				<Dragons />
 			</div>
